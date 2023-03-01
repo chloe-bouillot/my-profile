@@ -1,0 +1,73 @@
+body {
+	background-color: rgb(238, 241, 255);
+	color: rgb(30, 30, 30);
+	font-family: Playfair Display;
+	font-size: 18px;
+	text-align: justify;
+	text-align: center;
+}
+
+h1, h2 {
+	font-family: gloock;
+}
+
+h1 {
+	color: rgb(114, 134, 211);
+	font-weight:100;
+	letter-spacing: 3px;
+	font-size: 40px;
+}
+
+a {
+	font-family: 'roboto', sans-serif;
+	color: rgb(200, 92, 142);
+	text-decoration: none;
+	transition: color 0.3s ease;
+	font-weight: 600;
+	font-size: 13 px;
+
+}
+
+a:hover {
+	color: blueviolet;
+}
+
+#profile {
+	width: 130px;
+	border-radius: 50%; 
+}
+
+.btn-blue {
+	background-color: rgb(170, 196, 255);
+	padding: 15px 18px;
+	border-radius: 8px;
+	color: rgb(0, 0, 0);
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: rgb(170, 196, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
